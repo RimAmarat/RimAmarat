@@ -1,4 +1,7 @@
-## Hi there 👋
+## Bonjour! ✨ 
+
+AI Engineer looking to join an innovative team to contribute to the development of data-driven solutions. I bring strong skills in machine learning, data science, and natural language processing, combined with a passion for impactful, real-world applications. Known for being autonomous, curious, and results-oriented.
+
 
 <!--
 **RimAmarat/RimAmarat** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
