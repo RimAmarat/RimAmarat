@@ -40,20 +40,6 @@ AI Engineer passionate about **NLP**, **Generative AI**, and building intelligen
 **Bachelor's in Computer Science**, Avignon University | 2019 – 2022  
 **University Diploma in Entrepreneurship**, Avignon University | 2020 – 2022  
 
----
-
-## PROJECT HIGHLIGHTS  
-- **Movie review sentiment analysis**  
-  Fine-tuned a multilingual BERT model for French-language film reviews. Integrated a multistep text preprocessing pipeline.  
-  *[HuggingFace, NLP, Transformers]*  
-
-- **MNIST Digit Classifier**  
-  Built and trained a neural network in PyTorch. Optimized model size and architecture for cost-effective prediction. Achieved 95% accuracy rate.  
-  *[PyTorch, Neural Network, Computer Vision, Model Evaluation]*  
-
-- **CLI-Based Live Transcription System with voice activity detection (In Progress)**  
-  Developed a command-line speech-to-text pipeline using Whisper + Transformers with Voice Activity Detection, optimized for real-time transcription.  
-  *[Whisper, PyTorch, VAD, CLI]*  
 
 
 <!--
