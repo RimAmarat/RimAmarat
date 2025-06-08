@@ -12,12 +12,10 @@ AI Engineer passionate about **NLP**, **Generative AI**, and building intelligen
 
 ---
 
----
-
 ## 💼 Experience
 
 ### Research Engineer in Speech Processing  
-**Laboratoire Informatique d'Avignon (LIA)** - [liavignon.fr](https://liavignon.fr/en/home/)  
+**Laboratoire Informatique d'Avignon (LIA)**
 📍 *Avignon, France*  
 🗓️ *Sept 2022 – Aug 2024*
 
@@ -30,7 +28,7 @@ AI Engineer passionate about **NLP**, **Generative AI**, and building intelligen
 ---
 
 ### Intern in Data Preprocessing for a Database Project  
-**Laboratoire Informatique d'Avignon (LIA)** - [liavignon.fr](https://liavignon.fr/en/home/)  
+**Laboratoire Informatique d'Avignon (LIA)**
 📍 *Avignon, France*  
 🗓️ *May 2022 – July 2022*
 
@@ -42,7 +40,7 @@ AI Engineer passionate about **NLP**, **Generative AI**, and building intelligen
 ---
 
 ### Intern in Data Collection for an NLP Project  
-**Laboratoire Informatique d'Avignon (LIA)** - [liavignon.fr](https://liavignon.fr/en/home/)  
+**Laboratoire Informatique d'Avignon (LIA)**
 📍 *Avignon, France*  
 🗓️ *May 2021 – July 2021*
 
