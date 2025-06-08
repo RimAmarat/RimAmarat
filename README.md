@@ -1,59 +1,59 @@
-## Bonjour! ✨ 
-
-Ingénieure en intelligence artificielle, je cherche à intégrer une équipe innovante pour contribuer au développement de solutions data-driven à l’aide de mes compétences en machine learning, data science et traitement automatique du langage (NLP). Autonome, curieuse et orientée résultats, je suis motivée par des projets à fort enjeu technologique et sociétal.
-
-AI Engineer looking to join an innovative team to contribute to the development of data-driven solutions. I bring strong skills in machine learning, data science, and natural language processing, combined with a passion for impactful, real-world applications. Known for being autonomous, curious, and results-oriented.
-
-## EXPÉRIENCE
-
-### **Alternante en traitement automatique de la parole**
-
-**Laboratoire Informatique d’Avignon ([LIA](https://liavignon.fr/en/home/))** — *Avignon, France*
-*Sept 2022 – Août 2024*
-
-* Documentation et analyse des besoins en **solutions d'automatisation** des opérateurs de traitement d’appels d’urgence chez les sapeurs-pompiers de la Haute-Garonne.
-* Réalisation d’une application de proof-of-concept en **Flutter**, **Dart**, **Python**, et **Flask API** pour un assistant IA à la prise d’appels d’alerte dans le centre de traitement d’alertes (CTA).
-* Acculturation et exploration des applications des **technologies de traitement automatique de la parole et du texte** dans le cadre de la prise d’appels au CTA.
-* Évaluation de la robustesse de modèles **état de l’art** (*LeBenchmark*, *Whisper*) pour la **transcription automatique (ASR)** à l’aide de **Python**, **PyTorch**, et **Jiwer**, sur des enregistrements d’alertes.
-* Rédaction d’un rapport d’évaluation avec analyse et interprétation des résultats. Obtention d’un **taux d’erreur de 30 %** sur des enregistrements dans des conditions acoustiques défavorables (détresse émotionnelle, interruptions, chevauchements de parole).
+# Rim AMARAT  
+AI Engineer passionate about **NLP**, **Generative AI**, and building intelligent workflows with real-world impact.
 
 ---
 
-### **Stagiaire en prétraitement de données pour un projet de base de données**
-
-**Laboratoire Informatique d’Avignon ([LIA](https://liavignon.fr/en/home/))** — *Avignon, France*
-*Mai 2022 – Juin 2022*
-
-* Traitement de la base de données [FOPPA](https://www.nature.com/articles/s41597-023-02213-z) (French Open Public Procurement Award notices).
-* Conception de stratégies de nettoyage et uniformisation d’une base de données **SQLite** (\~60K lignes) à l’aide de **Python**, **Regex**, et **Bash**.
-
----
-
-### **Stagiaire en collecte de données pour un projet de NLP**
-
-**Laboratoire Informatique d’Avignon ([LIA](https://liavignon.fr/en/home/))** — *Avignon, France*
-*Mai 2021 – Juin 2021*
-
-* Automatisation de la collecte avec **BeautifulSoup**, **Requests**, et **Python**.
-* Annotation d’un corpus de **160M+** mots avec **Python**, **Perl**, et **Bash**.
-* Conversion et prétraitement de données avec des outils **Linux** et **Regex Perl**.
-* Développement d’un site web en **NodeJS** pour la diffusion libre des corpus du projet.
+## SKILLS  
+**Programming**: Python, C++, Java, Bash, Perl, Jupyter Notebook  
+**Frameworks**: PyTorch, HuggingFace, SpeechBrain, Flask, Transformers  
+**Data**: Pandas, Numpy, Scikit-Learn, SQLite, PostgreSQL  
+**Tools**: Linux, Git, BeautifulSoup, Regex, SLURM, API integration, AWS  
+**Languages**: Arabic, French, English, Spanish  
 
 ---
 
-## FORMATION
+## EXPERIENCE  
 
-* **Master en Intelligence Artificielle CMI en alternance**, Avignon Université
-  *2022 – 2024*
+### **Research Engineer in Speech Processing**  
+*Laboratoire Informatique d'Avignon ([LIA](https://liavignon.fr/en/home/))* | Sept 2022 – Aug 2024 | Avignon, France  
+- Designed a Proof of Concept voice assistant system for emergency call support using Flutter, Flask, and Python.  
+- Developed ASR pipelines using PyTorch and Jiwer, benchmarked OpenAI Whisper and LeBenchmark on noisy, overlapping call data.  
+- Ran large-scale AI experiments using SLURM on company High Performance Computing clusters, simulating scalable cloud-based deployment pipelines.  
+**Technologies**: Python, NLP, Signal Processing, Transformers, Speaker Diarization, PyTorch, Whisper, Jiwer, SLURM, Git, Flask, Flutter  
 
-* **Licence Informatique CMI**, Avignon Université
-  *2019 – 2022*
+### **Intern in Data Preprocessing for a Database Project**  
+*Laboratoire Informatique d'Avignon ([LIA](https://liavignon.fr/en/home/))* | May 2022 – July 2022 | Avignon, France  
+- Processed and standardized the FOPPA public procurement awards dataset using Python, Regex, and Bash.  
+- Implemented a structured data cleaning pipeline for a 60K+ row SQLite database.  
+**Technologies**: Python, Bash, Regex, SQLite  
 
-* **DU Entrepreneuriat**, Avignon Université
-  *2020 – 2022*
+### **Intern in Data Collection for an NLP Project**  
+*Laboratoire Informatique d'Avignon ([LIA](https://liavignon.fr/en/home/))* | May 2021 – July 2021 | Avignon, France  
+- Built a multistep pipeline for web scraping and corpus annotation using BeautifulSoup, Bash, and Perl.  
+- Constructed a NodeJS-based web platform to distribute a 160M+ word corpus.  
+**Technologies**: Perl, Bash, JavaScript, BeautifulSoup, NodeJS  
 
 ---
 
+## EDUCATION  
+**Master's in Artificial Intelligence (Engineering Program)**, Avignon University | 2022 – 2024  
+**Bachelor's in Computer Science**, Avignon University | 2019 – 2022  
+**University Diploma in Entrepreneurship**, Avignon University | 2020 – 2022  
+
+---
+
+## PROJECT HIGHLIGHTS  
+- **Movie review sentiment analysis**  
+  Fine-tuned a multilingual BERT model for French-language film reviews. Integrated a multistep text preprocessing pipeline.  
+  *[HuggingFace, NLP, Transformers]*  
+
+- **MNIST Digit Classifier**  
+  Built and trained a neural network in PyTorch. Optimized model size and architecture for cost-effective prediction. Achieved 95% accuracy rate.  
+  *[PyTorch, Neural Network, Computer Vision, Model Evaluation]*  
+
+- **CLI-Based Live Transcription System with voice activity detection (In Progress)**  
+  Developed a command-line speech-to-text pipeline using Whisper + Transformers with Voice Activity Detection, optimized for real-time transcription.  
+  *[Whisper, PyTorch, VAD, CLI]*  
 
 
 <!--
