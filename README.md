@@ -7,7 +7,7 @@ AI Engineer passionate about **NLP**, **Generative AI**, and building intelligen
 **Programming**: Python, C++, Java, Bash, Perl, Jupyter Notebook  
 **Frameworks**: PyTorch, HuggingFace, SpeechBrain, Flask, Transformers  
 **Data**: Pandas, Numpy, Scikit-Learn, SQLite, PostgreSQL  
-**Tools**: Linux, Git, BeautifulSoup, Regex, SLURM, API integration, Cloud
+**Tools**: Linux, Git, BeautifulSoup, Regex, SLURM, API integration, Cloud  
 **Languages**: Arabic, French, English, Spanish  
 
 ---
